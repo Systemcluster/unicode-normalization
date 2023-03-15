@@ -2,7 +2,7 @@
 
 name = "unicode-normalization"
 version = "0.1.22"
-authors = ["kwantam <kwantam@gmail.com>", "Manish Goregaokar <manishsmail@gmail.com>"]
+authors = ["kwantam <kwantam@gmail.com>", "Manish Goregaokar <manishsmail@gmail.com>", "Anthony MOI <m.anthony.moi@gmail.com>"]
 
 homepage = "https://github.com/unicode-rs/unicode-normalization"
 repository = "https://github.com/unicode-rs/unicode-normalization"

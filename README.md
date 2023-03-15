@@ -7,6 +7,8 @@ Unicode character composition and decomposition utilities
 as described in
 [Unicode Standard Annex #15](http://www.unicode.org/reports/tr15/).
 
+Including alignment information tracking from <https://github.com/n1t0/unicode-normalization> in separate traits. 100% compatible with upstream crate.
+
 This crate requires Rust 1.36+.
 
 ```rust
